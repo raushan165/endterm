@@ -1,0 +1,10 @@
+{
+  "name": "secure-cicd-demo",
+  "version": "1.0.0",
+  "description": "A demo application for a secure CI/CD pipeline",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {}
+}
